@@ -22,5 +22,4 @@ markdown_extensions:
 # Repository configuration (for the edit link on pages)
 repo_name: chojuninengu/mk-docs
 repo_url: https://github.com/chojuninengu/mk-docs
-edit_uri: edit/main/docs/
-chojuninengu
+edit_uri: edit/master/docs/chojuninengu

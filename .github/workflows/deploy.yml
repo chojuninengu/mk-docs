@@ -3,7 +3,7 @@ name: Deploy MkDocs to GitHub Pages
 on:
   push:
     branches:
-      - master   # Trigger workflow only on pushes to the main branch
+      - master   # Trigger workflow only on pushes to the master branch
 
 permissions: 
   contents: write

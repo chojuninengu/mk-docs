@@ -3,7 +3,9 @@
    The  official website is multipass.run
     on the terminal ,do a "which snap" 
    "sudo apt update"
+
     "sudo apt install snapd"
+
    run the command "sytemctl status snapd"
     (you will find it to be up and running)
    

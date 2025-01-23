@@ -15,7 +15,7 @@ RUN mkdocs build
 
 # Stage 2: Serve the site using Nginx
 FROM nginx:alpine
-
+  
 # Copy the built site from the builder stage
 COPY --from=builder /app/site /usr/share/nginx/html
 

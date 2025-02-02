@@ -5,7 +5,7 @@ This repository contains the source files for my MkDocs documentation project, u
 ## 📚 Project Overview
 
 - **MkDocs**: A fast, simple static site generator for building project documentation.
-- **Material for MkDocs**: A professional, responsive theme built on Google's Material Design principles.
+- **Material for MkDocs**: A professional, responsive theme built on Google's Material Design principles. 
 
 ## 🚀 Live Documentation
 
